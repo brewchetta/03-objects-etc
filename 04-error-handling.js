@@ -4,4 +4,4 @@ const person = {
     name: "Chett"
 }
 
-person.students.forEach(student => console.log(student))
+person.students.forEach( student => console.log(student) )
